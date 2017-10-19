@@ -5,7 +5,7 @@ Lookup a Bitcoin address in the Command Line.
 ## Usage
 Run with:
 ```sh
-python3 lookup.py address
+python3 lookup.py ADDRESS
 ```
 
 This application is best used with aliasing, that way you can lookup an address from wherever as long as you are in your command line.
