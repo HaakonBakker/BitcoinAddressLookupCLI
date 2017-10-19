@@ -1,5 +1,6 @@
 # Bitcoin Address Lookup CLI
-Lookup a Bitcoin address in the Command Line.
+Lookup a Bitcoin address in the Command Line.  
+![Bitcoin Address Lookup](https://github.com/HaakonBakker/BitcoinAddressLookupCLI/blob/master/images/previewImage.png?raw=true "Bitcoin Address Lookup")
 
 ## Usage
 Run with:
